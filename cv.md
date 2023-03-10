@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">CV</h1>
 
 ---
-### _Aleh Kapusta_
+### _Aleh  Kapusta_
 ---
 #### Contacts:
 - Location: Poznan, Poland
