@@ -13,7 +13,7 @@ Poznan, Wielkopolskie, Poland
 - Phone: +48 600 573 439 (Mobile)
 - Email: kapustaaleh@gmail.com
 - LinkedIn: [linkedin.com/in/aleh-kapusta](https://www.linkedin.com/in/aleh-kapusta)
-
+- Portfolio: [https://dj-rom.github.io/A_Kapusta/](https://dj-rom.github.io/A_Kapusta/)
 ---
 
 ## Key Skills
