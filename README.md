@@ -1,1 +1,1 @@
-https://dj-rom.github.io/rsschool-cv/
+https://dj-rom.github.io/rsschool-cv/cv
